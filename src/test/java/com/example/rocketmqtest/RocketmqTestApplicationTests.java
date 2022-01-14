@@ -151,4 +151,8 @@ class RocketmqTestApplicationTests {
         System.out.println("consumer start");
     }
 
+
+
+
+
 }
