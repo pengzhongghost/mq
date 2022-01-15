@@ -1,4 +1,4 @@
-package com.example.rocketmqtest;
+package com.example.rocketmqtest.顺序消息;
 
 import org.apache.rocketmq.client.producer.DefaultMQProducer;
 import org.apache.rocketmq.client.producer.MessageQueueSelector;
